@@ -8,6 +8,9 @@
 - Tool is meant to be for text to speach clipboard reading so it needs optimisation.
 - It is actually quite good at importing utau project files and I kinda recognoze the sounds more than in English.
 
+# Warning
+English doesn't sound phonetically right yet.
+
 # Plans
 - get automated prosody and phrase intonation building.
 - get to remove utau entirely and use pysam instead.
@@ -18,3 +21,8 @@ Inspect 3rd party repos if you need toto, clone, get dotnet if you lack it, it u
 Download at least teto eng and teto jp.
 I adjoined a list of the venv repositories. Not all of them are needed so it's for version reference. 
 Python=3.12.10
+Run alias.cmd
+
+# O.S.
+Works on windows...
+You'd need to study the .cmd files if you'Re on linux so you can translate that to .sh or just run commands with the provided links and methods.
