@@ -11,3 +11,10 @@
 # Plans
 - get automated prosody and phrase intonation building.
 - get to remove utau entirely and use pysam instead.
+- get results that resembles the original sound and use all modifiers available and create new ones possibly
+
+# How To
+Inspect 3rd party repos if you need toto, clone, get dotnet if you lack it, it uses winget, build utau-uial ... There's a mistype in the repo files and folders. I don't really care. I'll eventually fix it. IT needs to download the author of the repo's own compiler. It worked on my machine.
+Download at least teto eng and teto jp.
+I adjoined a list of the venv repositories. Not all of them are needed so it's for version reference. 
+Python=3.12.10
